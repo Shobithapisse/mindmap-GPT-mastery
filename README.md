@@ -1,22 +1,22 @@
-# Welcome to your Lovable project
+# Welcome to your our project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/242a2cd0-a71e-417d-aa93-b4aed1c97f7c
+**URL**: https://prod.liveshare.vsengsaas.visualstudio.com/join?D8C39203CC9A7D6F67FB5A9335B68E602F3C
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use Lovable**
+**Use **
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/242a2cd0-a71e-417d-aa93-b4aed1c97f7c) and start prompting.
+Simply visit the [Project](https://prod.liveshare.vsengsaas.visualstudio.com/join?D8C39203CC9A7D6F67FB5A9335B68E602F3C) and start prompting.
 
-Changes made via Lovable will be committed automatically to this repo.
+Changes made via vs code will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+If you want to work locally using your own IDE, you can clone this repo and push changes. 
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -62,7 +62,7 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/242a2cd0-a71e-417d-aa93-b4aed1c97f7c) and click on Share -> Publish.
+Simply open https://prod.liveshare.vsengsaas.visualstudio.com/join?D8C39203CC9A7D6F67FB5A9335B68E602F3C and click on Share -> Publish.
 
 ## Can I connect a custom domain to my Lovable project?
 
@@ -70,4 +70,4 @@ Yes, you can!
 
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Read more here: [Setting up a custom domain](https://prod.liveshare.vsengsaas.visualstudio.com/join?D8C39203CC9A7D6F67FB5A9335B68E602F3C)
